@@ -3,7 +3,10 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - SlotsManager
+  - MessageElement
+  - WizardCardElement
   layers:
   - Default
   - TransparentFX
@@ -40,4 +43,19 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Above everything
+    uniqueID: 940643609
+    locked: 0
+  - name: Cards
+    uniqueID: 2437552725
+    locked: 0
+  - name: HoverCards
+    uniqueID: 3188807769
+    locked: 0
+  - name: Wizard Card
+    uniqueID: 194472067
+    locked: 0
+  - name: Messages
+    uniqueID: 972994249
     locked: 0

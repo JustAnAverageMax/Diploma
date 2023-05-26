@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2d699febc1ca98b4096de5d55c82b816, type: 3}
+  m_Name: New Card Gain Effect
+  m_EditorClassIdentifier: 
+  cardsToGain: 2
+  onCardGained: {fileID: 11400000, guid: b68bfb745a8429f4f9ecc8dc6f888519, type: 2}

@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9e8d1c072bb891d448c9b95834ee1a60, type: 3}
+  m_Name: Additional power for creatures
+  m_EditorClassIdentifier: 
+  powerGainedAmount: 2
+  requiredCardCount: 2
+  onPlayerEffectExecuted: {fileID: 11400000, guid: 83c3203274180a444b685cfb3f8065c5, type: 2}
+  onPowerChanged: {fileID: 11400000, guid: 6fc5a191f21679e47a22192b36fd9439, type: 2}
+  trackedType: 0
