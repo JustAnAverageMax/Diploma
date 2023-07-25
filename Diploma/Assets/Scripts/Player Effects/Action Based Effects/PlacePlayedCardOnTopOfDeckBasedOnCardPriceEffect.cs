@@ -7,8 +7,8 @@ public class PlacePlayedCardOnTopOfDeckBasedOnCardPriceEffect : PlayerEffect
 {
     public GameEvent onCardPlacedOnTopOfDeck;
     public int triggerPrice;
-    
-    private int cardPrice;
+
+    internal int cardPrice;
     public override void Execute(Component sender, object data)
     {
         if (sender is not TurnManager)

@@ -125,7 +125,7 @@ TextureImporter:
         width: 746
         height: 632
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -146,7 +146,7 @@ TextureImporter:
         width: 741
         height: 634
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -154,6 +154,27 @@ TextureImporter:
       bones: []
       spriteID: 26931bbbec1d80f47b5b9383599371f5
       internalID: 1460658402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild Magic
+      rect:
+        serializedVersion: 2
+        x: 6716
+        y: 3466
+        width: 744
+        height: 648
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 13}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57bf5d4b0b0d8a649a79fe95357c342b
+      internalID: -1902350649
       vertices: []
       indices: 
       edges: []
@@ -172,6 +193,7 @@ TextureImporter:
       C48FA69291F206112AFCD565719F7FE0AFC75EFC_Deck2 1_0: -2111458409
       Glyph: 1609269489
       Wand: 1460658402
+      Wild Magic: -1902350649
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

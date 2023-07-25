@@ -15,8 +15,8 @@ MonoBehaviour:
   cardName: "\u0417\u043D\u0430\u043A"
   cardDescription: "+1 \u043C\u043E\u0449\u044C"
   cardType: 8
-  cardArt: {fileID: 1609269489, guid: da366829b72c0864989b4d77ef8fd4ce, type: 3}
+  cardArt: {fileID: 1609269489, guid: 2f99eb2c7ad31b84e955cf722ca66fab, type: 3}
   cardPrice: 0
   cardScoreValue: 0
   basePower: 1
-  cardEffect: {fileID: 0}
+  cardEffects: []

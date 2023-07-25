@@ -14,6 +14,7 @@ public class HPManager : MonoBehaviour
     [Header("Events")]
     public GameEvent onPlayerDied;
     public GameEvent onHealthModified;
+    public GameEvent onEnemyHealthLose;
     
     void Start()
     {
@@ -31,7 +32,8 @@ public class HPManager : MonoBehaviour
     public void LoseHP(Component sender, object data)
     {
         int amount = (int)data;
-        ModifyHealth(sender, -amount);
+        currentHealth -= amount;
+        onEnemyHealthLose.Raise(this, hpSlots[currentHealth - 1].localPosition);
     }
 
     private void ModifyHealth(Component sender, int amount)

@@ -1,0 +1,420 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="AdditionalCardsForUniqueCardTypesPlayedEffect">
+    <Position X="7.5" Y="14" Width="3.5" />
+    <InheritanceLine Type="PlayerEffect" FixedToPoint="true">
+      <Path>
+        <Point X="6.75" Y="10.983" />
+        <Point X="6.75" Y="15.125" />
+        <Point X="7.5" Y="15.125" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAAAAQQAAAAAgAAAAAAAAAAAAAAAAACAAAA=</HashCode>
+      <FileName>Assets\Scripts\Player Effects\Additional Resources for playing cards\AdditionalCardsForUniqueCardTypesPlayedEffect.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AdditionalHealthGainedBasedOnCardTypePlayed">
+    <Position X="7.5" Y="11.75" Width="3.5" />
+    <InheritanceLine Type="PlayerEffect" FixedToPoint="true">
+      <Path>
+        <Point X="6.75" Y="10.983" />
+        <Point X="6.75" Y="12.813" />
+        <Point X="7.5" Y="12.813" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAQAI=</HashCode>
+      <FileName>Assets\Scripts\Player Effects\Additional Resources for playing cards\AdditionalHealthGainedBasedOnCardTypePlayed.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AdditionalPowerForUniqueCardTypePlayedEffect">
+    <Position X="7.5" Y="16.5" Width="3.5" />
+    <InheritanceLine Type="PlayerEffect" FixedToPoint="true">
+      <Path>
+        <Point X="6.75" Y="10.983" />
+        <Point X="6.75" Y="17.625" />
+        <Point X="7.5" Y="17.625" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAAAAQAAAAAgAAAAAAAAACAAAAAABAAACI=</HashCode>
+      <FileName>Assets\Scripts\Player Effects\Additional Resources for playing cards\AdditionalPowerForUniqueCardTypePlayedEffect.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AdditionalResourcesGainedBasedOnUniqueCardTypesPlayed">
+    <Position X="11.5" Y="14" Width="4.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQQCAAAAgAAAAAAAAAAAAAAAAAACAAA=</HashCode>
+      <FileName>Assets\Scripts\Player Effects\Additional Resources for playing cards\AdditionalResourcesGainedBasedOnUniqueCardTypesPlayed.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ButtonFlip">
+    <Position X="2.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAQAAAAAIAAAEAAAAAAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>Assets\Scripts\Visuals\ButtonFlip.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CardAsset" Collapsed="true">
+    <Position X="7.75" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAEgAAAAAAACAAEAAAIAAAAAAAABAgACAA=</HashCode>
+      <FileName>Assets\Scripts\SO Scripts\CardAsset.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CardDataLoader">
+    <Position X="14.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAEAAAAAAEgAAAAAAACAAAAAIIAAAAAAAADACACEA=</HashCode>
+      <FileName>Assets\Scripts\Card Related\CardDataLoader.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CardEffect">
+    <Position X="2.5" Y="10" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\SO Scripts\CardEffect.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CardEffectExecutor">
+    <Position X="25.25" Y="5" Width="1.75" />
+    <InheritanceLine Type="UnityEngine.MonoBehaviour" ManuallyRouted="true">
+      <Path>
+        <Point X="24" Y="1.191" />
+        <Point X="24" Y="5.562" />
+        <Point X="25.25" Y="5.562" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>Assets\Scripts\Card Related\CardEffectExecutor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CardGainEffect">
+    <Position X="4.25" Y="12" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAAAAAAAAAgAAAAAAAAAAAQ=</HashCode>
+      <FileName>Assets\Scripts\Card Effects\GainCardEffect\CardGainEffect.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ChoosePlayerEffectMessage">
+    <Position X="25.25" Y="9.5" Width="2.25" />
+    <InheritanceLine Type="UnityEngine.MonoBehaviour" ManuallyRouted="true">
+      <Path>
+        <Point X="24" Y="1.191" />
+        <Point X="24" Y="10.875" />
+        <Point X="25.25" Y="10.875" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAABQAAAAECAAAEAAAAAAAAAAAAAAAAKAAAA=</HashCode>
+      <FileName>Assets\ChoosePlayerEffectMessage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClickableCard">
+    <Position X="25.25" Y="12.75" Width="1.5" />
+    <InheritanceLine Type="UnityEngine.MonoBehaviour" ManuallyRouted="true">
+      <Path>
+        <Point X="24" Y="1.191" />
+        <Point X="24" Y="13.562" />
+        <Point X="25.25" Y="13.562" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Card Related\ClickableCard.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Deck">
+    <Position X="0.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>Assets\Scripts\Managers\Deck.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DiscardPile">
+    <Position X="16.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAAAAAAAAAAAAAAAAAAIQAAAAGCACAABAAEA=</HashCode>
+      <FileName>Assets\Scripts\Managers\DiscardPile.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EndTurnButton">
+    <Position X="21" Y="4.25" Width="1.5" />
+    <InheritanceLine Type="UnityEngine.MonoBehaviour" ManuallyRouted="true">
+      <Path>
+        <Point X="24" Y="1.191" />
+        <Point X="24" Y="2.448" />
+        <Point X="24.003" Y="2.448" />
+        <Point X="24.003" Y="5" />
+        <Point X="22.5" Y="5" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Managers\EndTurnButton.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameEvent" Collapsed="true">
+    <Position X="10" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgIAAAAAAAAAAAIAAAAAAAAAAAAQAAAA=</HashCode>
+      <FileName>Assets\Scripts\Event System\GameEvent.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameEventListener">
+    <Position X="25.25" Y="18.25" Width="1.75" />
+    <InheritanceLine Type="UnityEngine.MonoBehaviour" ManuallyRouted="true">
+      <Path>
+        <Point X="24" Y="1.191" />
+        <Point X="24" Y="19.121" />
+        <Point X="25.114" Y="19.121" />
+        <Point X="25.114" Y="19.125" />
+        <Point X="25.25" Y="19.125" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAAAAAAABAAAAAAAAAAgIAAAAAAAACAA=</HashCode>
+      <FileName>Assets\Scripts\Event System\GameEventListener.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameManager">
+    <Position X="5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAABAACAAAAAAAAAAEAAAEAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\GameManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GlobalCardContainer" Collapsed="true">
+    <Position X="12.25" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\SO Scripts\GlobalCardContainer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hand">
+    <Position X="18.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAABAAAgCACBBAAQIAECAACAAAAIAxBA=</HashCode>
+      <FileName>Assets\Scripts\Managers\Hand.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HandCardSlotsManager">
+    <Position X="21" Y="9.5" Width="2" />
+    <InheritanceLine Type="UnityEngine.MonoBehaviour" ManuallyRouted="true">
+      <Path>
+        <Point X="24" Y="1.191" />
+        <Point X="24" Y="1.816" />
+        <Point X="23.988" Y="1.816" />
+        <Point X="23.988" Y="10.875" />
+        <Point X="23" Y="10.875" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAAAAQBAAAEAIAAAAAAAAAAAgAEAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Managers\HandCardSlotsManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HealthGainedEffect">
+    <Position X="0.5" Y="12" Width="1.75" />
+    <InheritanceLine Type="CardEffect" FixedFromPoint="true">
+      <Path>
+        <Point X="3.125" Y="11.233" />
+        <Point X="3.125" Y="11.625" />
+        <Point X="1.375" Y="11.625" />
+        <Point X="1.375" Y="12" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAAQAA=</HashCode>
+      <FileName>Assets\Scripts\Card Effects\HealthGainedEffect.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HoverPreview">
+    <Position X="21" Y="12.75" Width="1.5" />
+    <InheritanceLine Type="UnityEngine.MonoBehaviour" ManuallyRouted="true">
+      <Path>
+        <Point X="24" Y="1.191" />
+        <Point X="24" Y="1.81" />
+        <Point X="23.988" Y="1.81" />
+        <Point X="23.988" Y="15" />
+        <Point X="22.5" Y="15" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AGAQAAAQAAAAgABAQABAAAAAEEAACAAQBAECICAAAMA=</HashCode>
+      <FileName>Assets\Scripts\Visuals\HoverPreview.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HPManager">
+    <Position X="25.25" Y="14.75" Width="1.5" />
+    <InheritanceLine Type="UnityEngine.MonoBehaviour" ManuallyRouted="true">
+      <Path>
+        <Point X="24" Y="1.191" />
+        <Point X="24" Y="15.438" />
+        <Point X="25.25" Y="15.438" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AgAAAAAIQCAgAAQAABAAAAAEQAAEAAAAAAAAAAAAAAE=</HashCode>
+      <FileName>Assets\Scripts\Managers\HPManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LookAtTopCardScreen">
+    <Position X="7.25" Y="2" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAYABAAAAAAAAABAAAAAAEAAAIAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\LookAtTopCardScreen.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LookAtTopDeckCardBasedOnCardPlayedEffect">
+    <Position X="11.5" Y="16.5" Width="3.25" />
+    <InheritanceLine Type="PlayerEffect" ManuallyRouted="true" FixedToPoint="true">
+      <Path>
+        <Point X="6.75" Y="10.983" />
+        <Point X="6.75" Y="11.223" />
+        <Point X="11.26" Y="11.223" />
+        <Point X="11.26" Y="17.562" />
+        <Point X="11.5" Y="17.562" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAQAAAI=</HashCode>
+      <FileName>Assets\Scripts\Player Effects\Action Based Effects\LookAtTopDeckCardBasedOnCardPlayedEffect.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MessageManager">
+    <Position X="9.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAgAAAAAAACAAAAAgAAAAAABAACAAAIAAAAAA=</HashCode>
+      <FileName>Assets\MessageManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlacePlayedCardOnTopOfDeckBasedOnCardPriceEffect">
+    <Position X="11.5" Y="11.75" Width="3.75" />
+    <InheritanceLine Type="PlayerEffect" FixedToPoint="true">
+      <Path>
+        <Point X="6.75" Y="10.983" />
+        <Point X="6.75" Y="11.223" />
+        <Point X="11.26" Y="11.223" />
+        <Point X="11.26" Y="12.813" />
+        <Point X="11.5" Y="12.813" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAEAAQAAAAAAAAAAAAUAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Player Effects\Action Based Effects\PlacePlayedCardOnTopOfDeckBasedOnCardPriceEffect.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlayerDeck">
+    <Position X="0.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAAAAAAIAgABAAAAAEAAAsAAAAIACIAAAQAA=</HashCode>
+      <FileName>Assets\Scripts\Managers\PlayerDeck.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlayerEffect">
+    <Position X="6" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\SO Scripts\PlayerEffect.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlayerEffectAsset" Collapsed="true">
+    <Position X="14.5" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAABAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\SO Scripts\PlayerEffectAsset.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlayerEffectHandler">
+    <Position X="25.25" Y="7" Width="1.75" />
+    <InheritanceLine Type="UnityEngine.MonoBehaviour" ManuallyRouted="true">
+      <Path>
+        <Point X="24" Y="1.191" />
+        <Point X="24" Y="7.688" />
+        <Point X="25.25" Y="7.688" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAEEAAAAAAAAAAAAAAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>Assets\PlayerEffectHandler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlayerEffectLoader">
+    <Position X="25.25" Y="2" Width="1.75" />
+    <InheritanceLine Type="UnityEngine.MonoBehaviour" ManuallyRouted="true">
+      <Path>
+        <Point X="24" Y="1.191" />
+        <Point X="24" Y="2.857" />
+        <Point X="25.25" Y="2.857" />
+        <Point X="25.25" Y="2.875" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>CAAAAABAAAAAAAAAIAAAAAAAACAABAAAAAAAAAAAAkA=</HashCode>
+      <FileName>Assets\PlayerEffectLoader.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shop">
+    <Position X="21" Y="18.25" Width="1.5" />
+    <InheritanceLine Type="UnityEngine.MonoBehaviour" ManuallyRouted="true">
+      <Path>
+        <Point X="24" Y="1.191" />
+        <Point X="24" Y="18.75" />
+        <Point X="22.5" Y="18.75" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAgCAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Managers\Shop.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TurnManager">
+    <Position X="12" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAABAAAAEAAAABAAAAAAEAAQABAAABABCgAAA=</HashCode>
+      <FileName>Assets\Scripts\Managers\TurnManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Variant">
+    <Position X="21" Y="2" Width="1.5" />
+    <InheritanceLine Type="UnityEngine.MonoBehaviour" ManuallyRouted="true">
+      <Path>
+        <Point X="24" Y="1.191" />
+        <Point X="24" Y="2.812" />
+        <Point X="22.5" Y="2.812" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAQAAAAAA=</HashCode>
+      <FileName>Assets\Variant.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WizardCard">
+    <Position X="21" Y="6.25" Width="1.5" />
+    <InheritanceLine Type="UnityEngine.MonoBehaviour" ManuallyRouted="true">
+      <Path>
+        <Point X="24" Y="1.191" />
+        <Point X="24" Y="1.8" />
+        <Point X="23.99" Y="1.8" />
+        <Point X="23.99" Y="7.625" />
+        <Point X="22.5" Y="7.625" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AHACAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAIFA=</HashCode>
+      <FileName>Assets\Scripts\Visuals\WizardCard.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UnityEngine.MonoBehaviour" Collapsed="true">
+    <Position X="23.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="UnityEngine.ScriptableObject" Collapsed="true">
+    <Position X="11.5" Y="8" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

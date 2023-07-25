@@ -4,7 +4,7 @@ using UnityEngine.UI;
 
 public class WizardCard : MonoBehaviour
 {
-    private Vector3 initialPosition;
+    internal Vector3 initialPosition;
     private Vector3 centerPos;
     
     private bool cardActive = false;
