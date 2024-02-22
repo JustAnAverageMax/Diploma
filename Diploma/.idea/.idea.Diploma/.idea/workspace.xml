@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ef8fa1a9-ee42-4529-8100-f78750ca7c78" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Assets/SO/CardDataSO/CREATURES/Not-Live Girls.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SO/CardDataSO/CREATURES/Not-Live Girls.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SO/CardDataSO/Utility Cards/Знак.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/SO/CardDataSO/Utility Cards/Знак.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SO/CardDataSO/Utility Cards/Палочка.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/SO/CardDataSO/Utility Cards/Палочка.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SO/Player Effect Assets/Look at top deck card based on card played asset/Look at top deck card based on card played asset.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/SO/Player Effect Assets/Look at top deck card based on card played asset/Look at top deck card based on card played asset.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Managers/HPManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Managers/HPManager.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Visuals/ButtonFlip.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Visuals/ButtonFlip.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Card arts/C48FA69291F206112AFCD565719F7FE0AFC75EFC_Deck2 2.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/Card arts/C48FA69291F206112AFCD565719F7FE0AFC75EFC_Deck2 2.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/cloud-3.steamusercontent.com/23F85039FCF08F47642642D80CE0A6FE55E2A8A4_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/cloud-3.steamusercontent.com/23F85039FCF08F47642642D80CE0A6FE55E2A8A4_1.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserSettings/Layouts/CurrentMaximizeLayout.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/Layouts/CurrentMaximizeLayout.dwlt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserSettings/Layouts/default-2021.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/Layouts/default-2021.dwlt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/88e4733ac7bc4ae1b496735e6b83bbd346ac00/75/ee867b46/List`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/ba783288ca164d3099898a8819fcec1c159e00/19/0ab4feec/RectTransform.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/ba783288ca164d3099898a8819fcec1c159e00/3f/5e4d784e/Transform.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/ba783288ca164d3099898a8819fcec1c159e00/4f/49fccfde/UnityEvent`2.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ChoosePlayerEffectMessage.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/GameManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/LookAtTopCardScreen.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/MessageManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Card Effects/AttackEnemyEffect.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Event System/GameEvent.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Player Effects/Action Based Effects/LookAtTopDeckCardBasedOnCardPlayedEffect.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Player Effects/Action Based Effects/PlacePlayedCardOnTopOfDeckBasedOnCardPriceEffect.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/SO Scripts/GlobalCardContainer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/SO Scripts/PlayerEffect.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/SO Scripts/PlayerEffectAsset.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Shared/ColorSetter.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.2d.sprite@1.0.0/Editor/Interface/IGL.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@3.0.6/Scripts/Runtime/TMPro_UGUI_Private.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.ugui@1.0.0/Runtime/EventSystem/ExecuteEvents.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.ugui@1.0.0/Runtime/EventSystem/InputModules/BaseInputModule.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.ugui@1.0.0/Runtime/EventSystem/InputModules/StandaloneInputModule.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.ugui@1.0.0/Runtime/EventSystem/UIBehaviour.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2NbcFS8RlTajUuVIetAFagdsTtI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Discover.Launch.Via.Unity": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "XThreadsFramesViewSplitterKey": "0.37272727",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "rider.external.source.directories": [
+      "C:\\Users\\user\\AppData\\Roaming\\JetBrains\\Rider2022.3\\resharper-host\\DecompilerCache",
+      "C:\\Users\\user\\AppData\\Roaming\\JetBrains\\Rider2022.3\\resharper-host\\SourcesCache",
+      "C:\\Users\\user\\AppData\\Local\\Symbols\\src"
+    ]
+  }
+}]]></component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Standalone Player" type="RunUnityExe" factoryName="Unity Executable">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/../../../../Build\Diploma.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="D:\Build" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Start Unity" type="RunUnityExe" factoryName="Unity Executable">
+      <option name="EXE_PATH" value="C:\Program Files\2021.3.21f1\Editor\Unity.exe" />
+      <option name="PROGRAM_PARAMETERS" value="-projectPath D:\Projects\Unity\Diploma\Diploma -debugCodeOptimization" />
+      <option name="WORKING_DIRECTORY" value="D:\Projects\Unity\Diploma\Diploma" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <method v="2" />
+    </configuration>
+    <configuration name="UnitTests (batch mode)" type="RunUnityExe" factoryName="Unity Executable">
+      <option name="EXE_PATH" value="C:\Program Files\2021.3.21f1\Editor\Unity.exe" />
+      <option name="PROGRAM_PARAMETERS" value="-runTests -batchmode -projectPath D:\Projects\Unity\Diploma\Diploma -testResults Logs/results.xml -testPlatform EditMode -debugCodeOptimization" />
+      <option name="WORKING_DIRECTORY" value="D:\Projects\Unity\Diploma\Diploma" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="projectPathOnTarget" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="projectPathOnTarget" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ef8fa1a9-ee42-4529-8100-f78750ca7c78" name="Changes" comment="" />
+      <created>1679936119261</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1679936119261</updated>
+      <workItem from="1679936121690" duration="11000" />
+      <workItem from="1680026562699" duration="3009000" />
+      <workItem from="1680092285129" duration="5246000" />
+      <workItem from="1680440783885" duration="1943000" />
+      <workItem from="1682344361055" duration="4351000" />
+      <workItem from="1682424704864" duration="3581000" />
+      <workItem from="1682512210738" duration="1836000" />
+      <workItem from="1682682554161" duration="12101000" />
+      <workItem from="1682769975623" duration="365000" />
+      <workItem from="1682770434361" duration="4182000" />
+      <workItem from="1682779440576" duration="137000" />
+      <workItem from="1682938075369" duration="9597000" />
+      <workItem from="1682969010962" duration="6684000" />
+      <workItem from="1683027022117" duration="13562000" />
+      <workItem from="1683295531830" duration="6574000" />
+      <workItem from="1683378214143" duration="1617000" />
+      <workItem from="1683554635854" duration="14865000" />
+      <workItem from="1683634392024" duration="40077000" />
+      <workItem from="1683701619858" duration="12735000" />
+      <workItem from="1683743583300" duration="21185000" />
+      <workItem from="1683778679901" duration="3744000" />
+      <workItem from="1684076447261" duration="2643000" />
+      <workItem from="1684161060157" duration="4586000" />
+      <workItem from="1684239744115" duration="724000" />
+      <workItem from="1684517949444" duration="5338000" />
+      <workItem from="1684696775349" duration="608000" />
+      <workItem from="1684767854067" duration="1067000" />
+      <workItem from="1684850189043" duration="1412000" />
+      <workItem from="1684955061039" duration="5174000" />
+      <workItem from="1685149195024" duration="2526000" />
+      <workItem from="1686759772085" duration="1671000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/PlayerEffectHandler.cs</url>
+          <line>17</line>
+          <properties documentPath="D:\Projects\Unity\Diploma\Diploma\Assets\PlayerEffectHandler.cs" initialLine="14" containingFunctionPresentation="method 'HandleEffect'">
+            <startOffsets>
+              <option value="483" />
+            </startOffsets>
+            <endOffsets>
+              <option value="545" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Scripts/Card Related/ClickableCard.cs</url>
+          <line>15</line>
+          <properties documentPath="D:\Projects\Unity\Diploma\Diploma\Assets\Scripts\Card Related\ClickableCard.cs" initialLine="15" containingFunctionPresentation="method 'OnMouseDown'">
+            <startOffsets>
+              <option value="333" />
+            </startOffsets>
+            <endOffsets>
+              <option value="401" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Scripts/Managers/PlayerDeck.cs</url>
+          <line>16</line>
+          <properties documentPath="D:\Projects\Unity\Diploma\Diploma\Assets\Scripts\Managers\PlayerDeck.cs" initialLine="18" containingFunctionPresentation="method 'FillHandWithCards'">
+            <startOffsets>
+              <option value="469" />
+            </startOffsets>
+            <endOffsets>
+              <option value="501" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Scripts/Managers/DiscardPile.cs</url>
+          <line>40</line>
+          <properties documentPath="D:\Projects\Unity\Diploma\Diploma\Assets\Scripts\Managers\DiscardPile.cs" initialLine="40" containingFunctionPresentation="method 'AddCardToDiscardPile'">
+            <startOffsets>
+              <option value="1214" />
+            </startOffsets>
+            <endOffsets>
+              <option value="1232" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="Type#UnityEngine.GameObject" memberName="gameObject" />
+      </pinned-members>
+    </pin-to-top-manager>
+  </component>
+</project>
